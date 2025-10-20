@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### My open source contributions
+
+- [AVX512 diff algorithm for odiff](https://github.com/dmtrKovalenko/odiff/pull/131)
+- [Make the diffPath optional in odiff](https://github.com/dmtrKovalenko/odiff/pull/112)
+- [Introduce cron_shutdown function for stopping the main background worker](https://github.com/citusdata/pg_cron/pull/381)
+- [Clarify POSIX async‑signal safety in asio basic_signal_set](https://github.com/chriskohlhoff/asio/pull/1649)
+- [Fix building statsd Debian package on 12 Bookworm](https://github.com/statsd/statsd/pull/752)
+
 <!--
 **serpent7776/serpent7776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
