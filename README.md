@@ -6,6 +6,7 @@
 - [Make the diffPath optional in odiff](https://github.com/dmtrKovalenko/odiff/pull/112)
 - [New pqxx::connection constructor taking connection string and key/value parameter overrides](https://github.com/jtv/libpqxx/pull/1133)
 - [Introduce cron_shutdown function for stopping the main background worker](https://github.com/citusdata/pg_cron/pull/381)
+- [Fixed ai-jail aur build on Manjaro](https://github.com/akitaonrails/ai-jail/pull/56)
 - [Clarify POSIX async‑signal safety in asio basic_signal_set](https://github.com/chriskohlhoff/asio/pull/1649)
 - [Fix building statsd Debian package on 12 Bookworm](https://github.com/statsd/statsd/pull/752)
 
