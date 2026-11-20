@@ -12,9 +12,16 @@
 - be-tree:
   * [Change betree_add_*_variable to return slot number](https://github.com/adgear/be-tree/pull/15)
   * [Fix possible memleaks](https://github.com/adgear/be-tree/pull/16)
+- hive:
+  * [Fix slow SIGINT handling](https://gitlab.syncad.com/hive/hive/-/merge_requests/1888)
+- HAF:
+  * [Fix memory corruption in query supervisor](https://gitlab.syncad.com/hive/haf/-/merge_requests/665)
+  * [Introduce bidirectional c++/Postgres error handling handling mechanism](https://gitlab.syncad.com/hive/haf/-/merge_requests/296)
+- hivemind:
+  * [Fix notification cache paging with snowflake-like ids](https://gitlab.syncad.com/hive/hivemind/-/merge_requests/885)
 - ai-jail: [Fixed aur build on Manjaro](https://github.com/akitaonrails/ai-jail/pull/56)
-- asio: [Clarify POSIX async‑signal safety in basic_signal_set](https://github.com/chriskohlhoff/asio/pull/1649)
-- statsd: [Fix building Debian package on 12 Bookworm](https://github.com/statsd/statsd/pull/752)
+<!-- - asio: [Clarify POSIX async‑signal safety in basic_signal_set](https://github.com/chriskohlhoff/asio/pull/1649) -->
+<!-- - statsd: [Fix building Debian package on 12 Bookworm](https://github.com/statsd/statsd/pull/752) -->
 
 <!--
 **serpent7776/serpent7776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
